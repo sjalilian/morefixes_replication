@@ -6,9 +6,10 @@
   pages={42--51},
   year={2024}
 }
-
 ## 01 SSS Assignment 2
 - **Authors: Jayme Hebinck, Sha Li, Houhua Ma, Samaneh Jalilian**
+In this research project, we worked with the MoreFixes vulnerability dataset, where we first replicated the results of a published study to validate its methodology, and then extended the work by developing a machine learning system to automatically predict missing security weakness labels (CWEs) for software vulnerabilities (CVEs). With a transformer-based language model (DistilBERT), we trained a multi-label classification model on vulnerability descriptions and successfully predicted CWE categories for unlabeled CVEs.
+
 - **Main tasks:**
   1. Configure the environment
   2. Dump data
